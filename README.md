@@ -8,5 +8,8 @@ um sistema definido de mensagens
 pedido-resposta, tipicamente expressado em
 JSON ou XML, que é exposto via a internet -
 por meio de um servidor web baseado em
-HTTP.</blockquote>
+HTTP.
+
+Nesse Projeto eu uso o pacote <a href="https://pub.dev/packages/dio">DIO HttpClient</a></p>
+</blockquote>
 
